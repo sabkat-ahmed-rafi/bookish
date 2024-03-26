@@ -1,14 +1,14 @@
-
-import './App.css'
+import Banner from "./components/Banner";
+import "./App.css";
 
 function Home() {
-
-  
   return (
     <>
-      <div>this is Home//////////////////////</div>
+      <div className="mx-[80px]">
+        <Banner></Banner>
+      </div>
     </>
-  )
+  );
 }
 
-export default Home
+export default Home;

@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://source.unsplash.com/random/800x600/?books",
+        "review": "A timeless classic that explores themes of racial injustice and moral growth.",
+        "totalPages": 281,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Legal Drama", "Coming-of-Age"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 2,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://source.unsplash.com/random/800x600/?books",
+        "review": "An exploration of wealth, love, and the American Dream set in the Jazz Age.",
+        "totalPages": 218,
+        "rating": 4.2,
+        "category": "Classics",
+        "tags": ["Romance", "Tragedy"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 3,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://source.unsplash.com/random/800x600/?books",
+        "review": "A story of teenage angst and rebellion that resonates with readers of all ages.",
+        "totalPages": 224,
+        "rating": 4.3,
+        "category": "Literature",
+        "tags": ["Coming-of-Age", "Cultural Critique"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 4,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://source.unsplash.com/random/800x600/?books",
+        "review": "A dystopian novel that warns of totalitarianism and the loss of individuality.",
+        "totalPages": 328,
+        "rating": 4.6,
+        "category": "Science Fiction",
+        "tags": ["Dystopian", "Political Allegory"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://source.unsplash.com/random/800x600/?books",
+        "review": "A delightful adventure tale set in Middle-earth, perfect for readers of all ages.",
+        "totalPages": 310,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": ["Adventure", "Magic"],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": 6,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://source.unsplash.com/random/800x600/?books",
+        "review": "A witty and romantic portrayal of Georgian England's social hierarchy and love.",
+        "totalPages": 279,
+        "rating": 4.4,
+        "category": "Romance",
+        "tags": ["Classic Literature", "Regency Era"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    }
+]
