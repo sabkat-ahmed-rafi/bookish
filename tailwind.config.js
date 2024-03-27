@@ -1,5 +1,6 @@
 import daisyui from 'daisyui'
 import flowbite from 'flowbite'
+import tailgrids from 'tailgrids'
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -12,7 +13,8 @@ export default {
   },
   plugins: [
     require('flowbite/plugin'),
-    require("daisyui")
+    require("daisyui"),
+    require('tailgrids/plugin'),
   ],
 }
 
